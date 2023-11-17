@@ -1,0 +1,90 @@
+body {
+    background-image: url("/img/fondo_madera.jpg");
+}
+
+h2 {
+    text-align: center;
+}
+
+.colors th {
+    padding-bottom: 25px;
+}
+
+.colors {
+    margin-left: 34%;
+    margin-right: 39%;
+}
+
+.colors td {
+    text-align: left;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-right:40px;
+}
+
+.colors_letter {
+    margin:auto;
+}
+
+.colors_letter td {
+    font-size:25px;
+}
+
+
+.green {
+    background-color: green;
+}
+
+.black {
+    background-color: black;
+}
+
+.teal {
+    background-color: teal;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.navy {
+    background-color: navy;
+}
+
+.lime {
+    background-color: lime;
+}
+
+.white {
+    background-color: white;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.olive {
+    background-color: olive;
+}
+
+.gray {
+    background-color: gray;
+}
+
+.fuchsia {
+    background-color: fuchsia;
+}
+
+.red {
+    background-color: red;
+}
+
+@media (min-width: 600px) and (max-width: 768px) {
+    table {
+      width: 100%;
+    }
+  }
