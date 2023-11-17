@@ -1,0 +1,27 @@
+body {margin-left: 25%;
+margin-right: 25%;}
+.titulo {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h2 {
+    background-color: grey;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+.card_img_html {width: 120px;
+    height: 120px;   
+    float: inline-start;
+}
+
+.card_img_css {width: 120px;
+    height: 120px;   
+    float: inline-start;
+}
+
+.card_body {
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: justify;
+}
