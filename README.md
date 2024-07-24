@@ -25,7 +25,7 @@ cd ejercicios_html_css
 * Et voilà! You can also practice HTML and CSS :sunglasses:
   
 
-## Contributions
+## :open_hands: Contributions
 
 Do you have any suggestion? Please, feel free to contact me or open an issue or pull request. :star_struck:
 
